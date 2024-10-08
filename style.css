@@ -1,0 +1,11 @@
+body {
+  background-color: #fffce3;
+}
+p {
+  margin-left: 3px;
+  float: left;
+  font-family: "Press Start 2P";
+}
+audio {
+  visibility: hidden;
+}
